@@ -227,4 +227,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ---
 
 **Project completed:** March 2026  
-**Contact:** [Your email/website]
+**Contact:** jieyaopang@ln.hk
